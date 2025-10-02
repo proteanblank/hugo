@@ -2,6 +2,7 @@ module github.com/gohugoio/hugo
 
 require (
 	github.com/BurntSushi/locker v0.0.0-20171006230638-a6e239ea1c69
+	github.com/JohannesKaufmann/html-to-markdown/v2 v2.4.0
 	github.com/alecthomas/chroma/v2 v2.20.0
 	github.com/armon/go-radix v1.0.1-0.20221118154546-54df44f2176c
 	github.com/aws/aws-sdk-go-v2 v1.39.2
@@ -64,9 +65,9 @@ require (
 	github.com/sanity-io/litter v1.5.8
 	github.com/spf13/afero v1.15.0
 	github.com/spf13/cast v1.10.0
-	github.com/spf13/cobra v1.9.1
+	github.com/spf13/cobra v1.10.1
 	github.com/spf13/fsync v0.10.1
-	github.com/spf13/pflag v1.0.7
+	github.com/spf13/pflag v1.0.9
 	github.com/tdewolff/minify/v2 v2.24.3
 	github.com/tdewolff/parse/v2 v2.8.3
 	github.com/tetratelabs/wazero v1.9.0
@@ -106,7 +107,6 @@ require (
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/exporter/metric v0.53.0 // indirect
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.53.0 // indirect
 	github.com/JohannesKaufmann/dom v0.2.0 // indirect
-	github.com/JohannesKaufmann/html-to-markdown/v2 v2.4.0 // indirect
 	github.com/aws/aws-sdk-go v1.55.7 // indirect
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.11 // indirect
 	github.com/aws/aws-sdk-go-v2/config v1.29.17 // indirect
